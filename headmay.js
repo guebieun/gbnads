@@ -7,11 +7,11 @@ images[1] = "<b> MAHASISWA DIGENJOT DOSEN </b> <a href = 'https://ads1.guebieun.
 
 images[2] = "<b> KETAHUAN AYAH SAAT NGOCOK </b> <a href = 'https://ads1.guebieun.com' target='blank'><img src='https://1.bp.blogspot.com/-dEjHE4FaqJs/YJSXIyJLm0I/AAAAAAAAEkY/TsLR2BeBY-kcdn6k6wprGEoz5PEFGk9zwCLcBGAsYHQ/s16000/byeol_33_144665633_1323895884648307_7103730521369131806_n.jpg' alt='Click here to watch'></a>";
 
-images[3] = "<b> VIDEO TANTE CINA </b> <a href = 'https://ads1.guebieun.com' target='blank'><img src='https://1.bp.blogspot.com/-wckWZi4yXQ8/YJSSCxpztiI/AAAAAAAAEj4/eToSGxY4Agoa4k-mjY5BZiYMwUZTr32SACLcBGAsYHQ/s16000/sexi_girls_chinese_91515785_573458676600612_1390531747628217109_n.jpg' alt='Click here to watch'></a>";
+images[3] = "<b> VIDEO TANTE CINA CANTIK </b> <a href = 'https://ads1.guebieun.com' target='blank'><img src='https://1.bp.blogspot.com/-wckWZi4yXQ8/YJSSCxpztiI/AAAAAAAAEj4/eToSGxY4Agoa4k-mjY5BZiYMwUZTr32SACLcBGAsYHQ/s16000/sexi_girls_chinese_91515785_573458676600612_1390531747628217109_n.jpg' alt='Click here to watch'></a>";
 
-images[4] = "<b> GADIS SMA VIRAL </b> <a href = 'https://ads1.guebieun.com' target='blank'><img src='https://1.bp.blogspot.com/-ymfmDXFxQAc/YJSSD8atDfI/AAAAAAAAEkE/vBfKn16Z8Xodfb38ugLGfGcMsYGOqwV9gCLcBGAsYHQ/s16000/sexi_girls_chinese_92473465_2577725195831995_3076064614404461732_n.jpg' alt='Click here to watch'></a>";
+images[4] = "<b> GADIS SMA MAIN SAMA GURU </b> <a href = 'https://ads1.guebieun.com' target='blank'><img src='https://1.bp.blogspot.com/-ymfmDXFxQAc/YJSSD8atDfI/AAAAAAAAEkE/vBfKn16Z8Xodfb38ugLGfGcMsYGOqwV9gCLcBGAsYHQ/s16000/sexi_girls_chinese_92473465_2577725195831995_3076064614404461732_n.jpg' alt='Click here to watch'></a>";
 
-images[5] = "<b> CEWEK IMUT MAIN DI DAPUR </b> <a href = 'https://ads1.guebieun.com' target='blank'><img src='https://1.bp.blogspot.com/-aqyLUFKhfWA/YJSSC9HCt1I/AAAAAAAAEj8/qK1rY8crGNUk7mCVtI6WBMSf8EZxlaLMwCLcBGAsYHQ/s16000/sexi_girls_chinese_108555737_992827987823596_2782518641758155489_n.jpg' alt='Click here to watch'></a>";
+images[5] = "<b> ABG IMUT DIGENJOT DARI BELAKANG </b> <a href = 'https://ads1.guebieun.com' target='blank'><img src='https://1.bp.blogspot.com/-aqyLUFKhfWA/YJSSC9HCt1I/AAAAAAAAEj8/qK1rY8crGNUk7mCVtI6WBMSf8EZxlaLMwCLcBGAsYHQ/s16000/sexi_girls_chinese_108555737_992827987823596_2782518641758155489_n.jpg' alt='Click here to watch'></a>";
 
 
 index = Math.floor(Math.random() * images.length);
