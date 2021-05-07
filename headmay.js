@@ -5,8 +5,7 @@ images[0] = "<b> ISTRI SELINGKUH VIRAL </b> <a href = 'https://ads1.guebieun.com
 
 images[1] = "<b> MAHASISWA DIGENJOT DOSEN </b> <a href = 'https://ads1.guebieun.com' target='blank'><img src='https://1.bp.blogspot.com/-aVNx6_s_U2o/YJSGHeYE5EI/AAAAAAAAEis/o0JZnx08WEAr_N2-uHAVNyURdVHhG8zlQCLcBGAsYHQ/s16000/ms_puiyi_155112338_461793574868219_4826974072203712565_n.jpg' alt='Click here to watch'></a>";
 
-images[2] = "<b> IBU SUKA TELANJANG </b> <a href = 'https://ads1.guebieun.com' target='blank'><img src='https://1.bp.blogspot.com/-MIqktLT1O_w/YJSQ5SRIbtI/AAAAAAAAEjs/ohXHhHjEqUUQtqaN52Irrg-pqjOjYbMxwCLcBGAsYHQ/s320/tante_simpanan_47583118_1965937467041386_7690700119392694358_n.jpg' alt='Click here to watch'></a>";
-
+images[2] = "<b> KETAHUAN AYAH SAAT NGOCOK </b> <a href = 'https://ads1.guebieun.com' target='blank'><img src='https://1.bp.blogspot.com/-dEjHE4FaqJs/YJSXIyJLm0I/AAAAAAAAEkY/TsLR2BeBY-kcdn6k6wprGEoz5PEFGk9zwCLcBGAsYHQ/s16000/byeol_33_144665633_1323895884648307_7103730521369131806_n.jpg' alt='Click here to watch'></a>";
 
 images[3] = "<b> VIDEO TANTE CINA </b> <a href = 'https://ads1.guebieun.com' target='blank'><img src='https://1.bp.blogspot.com/-wckWZi4yXQ8/YJSSCxpztiI/AAAAAAAAEj4/eToSGxY4Agoa4k-mjY5BZiYMwUZTr32SACLcBGAsYHQ/s16000/sexi_girls_chinese_91515785_573458676600612_1390531747628217109_n.jpg' alt='Click here to watch'></a>";
 
