@@ -1,7 +1,7 @@
 var images = [],
 index = 0;
 
-images[0] = "<b> ISTRI SELINGKUH VIRAL </b> <a href = 'https://ads1.guebieun.com target='blank'><img src='https://1.bp.blogspot.com/-F5NDKR_c3rc/YJSGJrEeW0I/AAAAAAAAEjA/nBAwl50dpNsCSUv_XgvHe4YsLypcr2SBQCLcBGAsYHQ/s16000/ms_puiyi_175816099_295044445330389_3876018797853865512_n.jpg' alt='Click here to watch'></a>";
+images[0] = "<b> ISTRI SELINGKUH VIRAL </b> <a href = 'https://ads1.guebieun.com' target='blank'><img src='https://1.bp.blogspot.com/-F5NDKR_c3rc/YJSGJrEeW0I/AAAAAAAAEjA/nBAwl50dpNsCSUv_XgvHe4YsLypcr2SBQCLcBGAsYHQ/s16000/ms_puiyi_175816099_295044445330389_3876018797853865512_n.jpg' alt='Click here to watch'></a>";
 
 images[1] = "<b> MAHASISWA DIGENJOT DOSEN </b> <a href = 'https://ads1.guebieun.com' target='blank'><img src='https://1.bp.blogspot.com/-aVNx6_s_U2o/YJSGHeYE5EI/AAAAAAAAEis/o0JZnx08WEAr_N2-uHAVNyURdVHhG8zlQCLcBGAsYHQ/s16000/ms_puiyi_155112338_461793574868219_4826974072203712565_n.jpg' alt='Click here to watch'></a>";
 
